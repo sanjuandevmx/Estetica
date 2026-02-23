@@ -1,0 +1,104 @@
+/* Header */
+
+header a:hover {
+    padding: 8px;
+    background-color: purple;
+    border-radius: 10px;
+}
+
+header a span:hover {
+color: white;
+}
+
+header a span {
+    
+    font-weight: bolder;
+    font-size: larger;
+    color: purple;
+}
+
+header .nav .nav-item .nav-link {
+    color: purple;
+    font-weight: bolder;
+}
+
+header .nav .nav-item .nav-link:hover {
+    color: white;
+}
+
+/* Hero Section */
+
+.hero-title {
+    color: purple;
+}
+
+.hero-text {
+    text-align: justify;
+    color: purple;
+}
+
+.hero img {
+    text-align: center;
+    justify-content: center;
+}
+/* Features */
+
+.services-title {
+    color: purple;
+    font-weight: bold;
+}
+
+.services-feature-text{
+ color: purple;
+text-align: justify;
+
+}
+
+.services-feature-title {
+ color: purple;
+ text-align: center;
+}
+
+.feature-lñ {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.feature-icon img {
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+}
+
+/* call to action section */
+
+.call-to-action-section{
+    background-color: purple;
+    
+}
+
+.call-to-action-section-title, .call-to-action-section-text {
+    color: white;
+
+    
+}
+.contacto-section{
+     text-align: center;
+    align-items: center;
+}
+.contacto-features {
+     color: purple;
+    text-align: justify;
+    align-items: center;
+}
+
+.contacto-title {
+     color: purple;
+    text-align: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+}
